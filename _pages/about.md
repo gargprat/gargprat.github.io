@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a senior developer working with Morgan Stanley. Solving complex problems around distributed systems interests me
+* I am a senior developer working with Morgan Stanley. Large scale data set query optimizations and solving complex problems around distributed systems interests me
 
 * My research interests include distributed systems, large scale data management
 
