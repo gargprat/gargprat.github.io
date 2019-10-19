@@ -6,7 +6,7 @@ excerpt: 'This article discusses and shares results of optimization techniques c
 date: 2019-10-21
 venue: 'SMART2019'
 paperurl: ''
-citation: 'Prateek Garg, DB Phatak. (2019). &quot;Paper Optimization Techniques for Heterogenous Hadoop Distributed File System.&quot; <i>SMART2019</i>. 1(1).'
+citation: 'Prateek Garg, DB Phatak. (2019). &quot;Optimization Techniques for Heterogenous Hadoop Distributed File System.&quot; <i>SMART2019</i>. 1(1).'
 ---
 This article discusses and shares results of optimization techniques centered around Hadoop File Systems having disks of varied generations
 
