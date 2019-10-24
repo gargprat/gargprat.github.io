@@ -12,6 +12,6 @@ redirect_from:
 
 * My research interests include distributed systems, large scale data management
 
-* I received my Bachelor's in Technology from [Shri Mata Vaishno Devi University](https://www.smvdu.ac.in)
+* I received my Bachelor in Technology from [Shri Mata Vaishno Devi University](https://www.smvdu.ac.in)
 
-* I received my Master's in Technology from [Deptt of Computer Science  & Engineering, Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in)
+* I received my Master in Technology from [Deptt of Computer Science  & Engineering, Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in)
