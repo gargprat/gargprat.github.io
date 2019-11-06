@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://gargprat.github.io/files/gargprat.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://gargprat.github.io/files/gargprat.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
