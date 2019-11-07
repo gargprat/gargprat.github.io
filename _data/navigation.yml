@@ -4,13 +4,7 @@ main:
     url: /publications/
 
   - title: "Research Fellowships"
-    url: /fellowship/
-
-#  - title: "Talks"
-#    url: /talks/
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
+    url: /fellowships/
 
   - title: "CV"
     url: /cv/
