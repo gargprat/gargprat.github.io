@@ -1,7 +1,6 @@
 ---
-layout: archive
 title: "Research Fellowships"
-permalink: /fellowship/
+permalink: /fellowships/
 author_profile: true
 ---
 
