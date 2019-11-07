@@ -1,6 +1,6 @@
 ---
 title: "Video Based Traffic Analysis for Vehicle Tracking & Counting (Using Optical Flow)"
-collection: fellowship
+collection: fellowships
 permalink: /fellowships/opticalflow
 date: 2011-06-30
 venue: "Indian Institute of Science"

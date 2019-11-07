@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Steganalysis of JPEG Images"
-collection: fellowship
+collection: fellowships
 permalink: /fellowships/steganalysis
 date: 2012-06-30
 venue: "Indian Institute of Science"
