@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to view My Up-to-date Curriculum Vitae [PDF]](http://gargprat.github.io/files/garg_resume.pdf)
+[Click to view my up-to-date Curriculum Vitae [PDF]](http://gargprat.github.io/files/garg_resume.pdf)

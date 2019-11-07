@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: gargprateek.iitb [at] gmail.com
+Email: gargprateek[dot]iitb[at]gmail.com
