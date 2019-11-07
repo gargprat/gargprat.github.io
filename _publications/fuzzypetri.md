@@ -1,7 +1,7 @@
 ---
 title: "Production Rules Based Inferences Using Fuzzy Petri Nets"
 collection: publications
-permalink: /publication/fuzzypetri
+permalink: /publications/fuzzypetri
 excerpt: ''
 date: 2019-10-05
 venue: 'Information Processing Letters'
