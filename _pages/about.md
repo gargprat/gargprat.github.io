@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://gargprat.github.io/files/gargprat.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://gargprat.github.io/files/gargprat.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 
-* I am a senior developer working with Morgan Stanley. Large scale data set query optimizations and solving complex problems around distributed systems interests me
+* I am a senior developer working with [Morgan Stanley](https://www.morganstanley.com). Large scale data set query optimizations and solving complex problems around distributed systems interests me
 
 * My research interests include distributed systems, large scale data management
 
