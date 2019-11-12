@@ -15,7 +15,7 @@ redirect_from:
 
 * I am a senior developer working with [Morgan Stanley](https://www.morganstanley.com). Large scale data set query optimizations and solving complex problems around distributed systems interests me
 
-* My research interests include distributed systems, large scale data management
+* My research interests include Query Processing & Optimization on Large Scale Data Sets, Scalable Database Systems, Knowledge Discovery, Knowledge Representation & Automated Reasoning
 
 * I received my Bachelor in Technology from [Shri Mata Vaishno Devi University](https://www.smvdu.ac.in)
 

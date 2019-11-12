@@ -4,8 +4,6 @@ collection: intern
 permalink: /intern/steganalysis
 date: 2012-06-30
 type: "Talk"
-venue: "Indian Institute of Science"
-location: "Bangalore, India"
 ---
 ## Abstract
 <p align="justify">
