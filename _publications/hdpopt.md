@@ -3,7 +3,6 @@ title: "Optimization Techniques for Heterogenous Hadoop Distributed File Systems
 collection: publications
 permalink: /publications/hdpopt
 excerpt: 'This article discusses and shares results of optimization techniques centered around Hadoop File Systems having disks of varied generations'
-date: 2019-10-21
 paperurl: ''
 ---
 ## Abstract
