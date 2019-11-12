@@ -3,6 +3,7 @@ title: "Video Based Traffic Analysis for Vehicle Tracking & Counting (Using Opti
 collection: intern
 permalink: /intern/opticalflow
 date: 2011-06-30
+type: "Talk"
 venue: "Indian Institute of Science"
 location: "Bangalore, India"
 ---
